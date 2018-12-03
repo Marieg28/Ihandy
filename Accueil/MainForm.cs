@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace Accueil
 {
-    public partial class Accueil : Form
+    public partial class MainForm : Form
     {
-        public Accueil()
+        public MainForm()
         {
             InitializeComponent();
             WindowState = FormWindowState.Maximized;
             lbl_Bvn.Font = new Font("Arial", 30, FontStyle.Bold);
         }
 
-        
+
 
         private void btn_clb_Click(object sender, EventArgs e)
         {

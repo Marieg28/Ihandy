@@ -16,7 +16,7 @@ namespace Accueil
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Accueil());
+            Application.Run(new MainForm());
         }
     }
 }

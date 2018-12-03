@@ -1,6 +1,6 @@
 ﻿namespace Accueil
 {
-    partial class Accueil
+    partial class MainForm
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
