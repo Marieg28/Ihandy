@@ -15,6 +15,7 @@ namespace Accueil
         public Accueil()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
             lbl_Bvn.Font = new Font("Arial", 30, FontStyle.Bold);
         }
 
